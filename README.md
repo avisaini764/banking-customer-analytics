@@ -64,9 +64,9 @@ The dataset contains customer-level banking records with the following key attri
 ```
 banking-customer-analytics/
 │
-├── Banking-Customer-presentation.pdf               # Project Presentation
 ├── BankEDA.ipynb                                   # Python Exploratory Data Analysis notebook
 ├── Banking_Dashboard.pbix                          # Power BI interactive dashboard
+├── Banking-Customer-presentation.pdf               # Project Presentation
 ├── Banking.csv                                     # Source dataset (add if sharing publicly)
 └── README.md                                       # Project documentation
 ```
